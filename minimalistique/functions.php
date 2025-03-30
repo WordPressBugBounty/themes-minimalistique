@@ -351,12 +351,7 @@ function minimalistique_theme_register_required_plugins()
             'name'      => 'Superb Addons',
             'slug'      => 'superb-blocks',
             'required'           => false,
-        ),
-        array(
-            'name'      => 'NitroPack',
-            'slug'      => 'nitropack',
-            'required'           => false,
-        ),
+        )
     );
 
     $config = array(
